@@ -1,0 +1,1 @@
+A simple script that creates a project structure. Place the main file in the root folder of the project and run ./main
